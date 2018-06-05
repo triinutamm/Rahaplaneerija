@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Kasutaja\Desktop\Projects\Rahaplaneerja\Rahaplaneerja\obj\Debug\
+C:\Users\Kasutaja\Desktop\Projects\Rahaplaneerja\Rahaplaneerija\Rahaplaneerja\obj\Debug\
 Rahaplaneerja
 none
 false
 DEBUG;TRACE
-C:\Users\Kasutaja\Desktop\Projects\Rahaplaneerja\Rahaplaneerja\App.xaml
-2215846406
+C:\Users\Kasutaja\Desktop\Projects\Rahaplaneerja\Rahaplaneerija\Rahaplaneerja\App.xaml
+3-389782759
 
-121397769737
-701712280189
-MainWindow.xaml;Views\FirstChildView.xaml;
+141992812422
+131569487696
+MainWindow.xaml;Views\FirstChildView.xaml;Views\SecondChildView.xaml;
 
-False
+True
 

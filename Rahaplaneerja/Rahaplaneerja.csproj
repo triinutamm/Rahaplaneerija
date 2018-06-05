@@ -67,8 +67,12 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="ViewModels\FirstChildViewModel.cs" />
+    <Compile Include="ViewModels\SecondChildViewModel.cs" />
     <Compile Include="Views\FirstChildView.xaml.cs">
       <DependentUpon>FirstChildView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SecondChildView.xaml.cs">
+      <DependentUpon>SecondChildView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -84,6 +88,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Views\FirstChildView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\SecondChildView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
